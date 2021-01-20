@@ -39,7 +39,7 @@ namespace ConsoleApp6
             {
               for (int n1 = 0; n1 < m; n1++)
                 {
-                    Write(arr1[n][n1]+" ");
+                    Write("{0, 3}", arr1[n][n1]);
                 }
                 WriteLine();
                 m++;
