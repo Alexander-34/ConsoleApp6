@@ -43,8 +43,7 @@ namespace ConsoleApp6
                 }
                 WriteLine();
                 m++;
-            }
-            WriteLine(" ");        
+            }            
         }
     }
 }
