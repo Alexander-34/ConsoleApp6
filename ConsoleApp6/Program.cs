@@ -1,4 +1,6 @@
-﻿using System;
+﻿// «Платформа Microsoft .NET и язык программирования C#»
+// ДЗ №1 задание 4
+using System;
 using static System.Console;
 using System.Collections.Generic;
 using System.Linq;
